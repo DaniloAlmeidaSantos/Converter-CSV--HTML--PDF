@@ -8,6 +8,6 @@ const PDF = connection.define("PDF", {
     }
 });
 
-//PDF.sync({force: false});
+PDF.sync({force: false});
 
 module.exports = PDF;
