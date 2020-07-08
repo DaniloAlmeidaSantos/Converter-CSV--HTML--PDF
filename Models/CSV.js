@@ -8,6 +8,6 @@ const CSV = connection.define("csv", {
     }
 });
 
-//CSV.sync({force: false});
+CSV.sync({force: false});
 
 module.exports = CSV;
