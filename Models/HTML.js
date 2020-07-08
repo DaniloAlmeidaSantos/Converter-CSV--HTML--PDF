@@ -8,6 +8,6 @@ const HTML = connection.define("html", {
     }
 });
 
-//HTML.sync({force: false});
+HTML.sync({force: false});
 
 module.exports = HTML;
