@@ -9,3 +9,4 @@
 
 #### Observação:
  - O diretório aonde está sendo feito os uploads dos arquivos é `./uploads`. Importante dizer que estou utilizando o a biblioteca Multer para realizar o upload de arquivos.
+ - Neste projeto utilizei o Express para redirecionamento de rotas, e estou rodando ele na porta 8080 para acessar basta dar o comando `node index.js` e acessar pelo seu navegador o `localhost:8080`.
